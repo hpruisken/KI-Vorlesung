@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organisatorisches on </title>
+    <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org.html</link>
+    <description>Recent content in Organisatorisches on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modulvorstellung Künstliche Intelligenz (Wahlfach Liste 1)</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/teaser.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/teaser.html</guid>
+      <description>Was ist Künstliche Intelligenz? Quelle: AvB - RoboCup 2013 - Eindhoven by RoboCup2013 on Flickr.com (CC BY 2.0)
+Überblick über wichtige Methoden &amp;amp; Gebiete der KI 2 SWS Vorlesung (E-Klausur), 2 SWS Praktikum mit Testat</description>
+    </item>
+    <item>
+      <title>Syllabus</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/syllabus.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/syllabus.html</guid>
+      <description>Worum geht&#39;s hier? Quelle: AvB - RoboCup 2013 - Eindhoven by RoboCup2013 on Flickr.com (CC BY 2.0)
+Was ist Intelligenz? Was ist künstliche Intelligenz? Wie baut man intelligente Systeme? Was braucht man für &amp;quot;Cmdr. Data&amp;quot;? Welche Teilgebiete existieren? Welche Methoden und Algorithmen gibt es? Wie funktionieren die? Ziele Hineinschnuppern in fast alle Fächer des &amp;quot;Apothekenschranks&amp;quot;: Wie funktioniert&#39;s, wozu ist es gut? Methoden-Baukasten zur Lösung unterschiedlichster Probleme Grundlegendes Verständnis für Anwendungen in Spielen, Navigation, Planung, smarten Assistenten, autonomen Fahrzeuge Überblick Modulinhalte Problemlösen Zustände, Aktionen, Problemraum Suche (blind, informiert): Breiten-, Tiefensuche, Best-First, Branch-and-Bound, A-Stern Lokale Suche: Gradientenabstieg, Genetische/Evolutionäre Algorithmen (GA/EA) Spiele: Minimax, Alpha-Beta-Pruning, Heuristiken Constraints: Backtracking, Heuristiken, Propagation, AC-3 Maschinelles Lernen Merkmalsvektor, Trainingsmenge, Trainingsfehler, Generalisierung Entscheidungsbäume: CAL2, CAL3, ID3, C4.</description>
+    </item>
+    <item>
+      <title>Ressourcen</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/resources.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/resources.html</guid>
+      <description>Was brauche ich? Literatur ... Basics (&amp;quot;Must Have&amp;quot;!) &amp;quot;Artificial Intelligence: A Modern Approach&amp;quot; (AIMA): [Russell2020] &amp;quot;Introduction to Artificial Intelligence&amp;quot;: [Ertel2017] &amp;quot;Machine Learning&amp;quot;: [Mitchell2010] Weitere empfohlene Literatur Falls der [Russell2020] noch nicht erhältlich ist, kann auch eine ältere Ausgabe (etwa [Russell2014]) verwendet werden.
+Ergänzend zum [Russell2020] empfiehlt sich ein Blick in [Ertel2017] (bzw. [Ertel2016], als etwas ältere deutschsprachige Ausgabe), wo ebenfalls beinahe alle Themen besprochen werden.
+Speziell zum Thema Machine Learning seien [Kubat2017] und [Mitchell2010] empfohlen.</description>
+    </item>
+    <item>
+      <title>Note und Credits (FHB)</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/grading-fhb.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/grading-fhb.html</guid>
+      <description>Prüfungsform FHB Klausur plus Testat, 5 ECTS
+Testat: Für die Vergabe der Credit-Points ist die regelmäßige und erfolgreiche Teilnahme am Praktikum erforderlich, welche am Ende des Semesters durch ein Testat bescheinigt wird.
+Kriterien: Sie haben durch die Bearbeitung der Übungsaufgaben im Praktikum mindestens 44 von insgesamt maximal 56 erreichbaren Punkten erreicht.
+Gesamtnote: Schriftliche Prüfung (&amp;quot;Klausur&amp;quot;) am Ende des Semesters, angeboten in beiden Prüfungszeiträumen (Tipps zur Vorbereitung siehe &amp;ldquo;Prüfungsvorbereitung (FHB)&amp;rdquo;)
+Hinweise zum Praktikum FHB Bearbeitung der Aufgaben Die Bearbeitung der Aufgaben erfolgt in internationalen 2er-Teams oder individuell.</description>
+    </item>
+    <item>
+      <title>Note und Credits (TDU)</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/grading-tdu.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/grading-tdu.html</guid>
+      <description>Notenzusammensetzung TDU Endprüfung 60% Die Endprüfung ist als schriftliche Prüfung auf dem Campus vorgesehen.
+Es wird keine Zwischenprüfung stattfinden.
+Übung 40% Für die Vergabe von Punkten ist die erfolgreiche Teilnahme an der Übung erforderlich.
+Erfolgreiche Teilnahme bedeutet:
+Aufgaben bearbeiten und hochladen, und In Übungsstunde anwesend sein, gegebenenfalls eigene Lösung vorstellen, und Feedback zu den Lösungen anderer geben. Für Details siehe &amp;quot;Hinweise zur Übung&amp;quot;. Hinweise zur Übung TDU Bearbeitung der Aufgaben Die Bearbeitung der Aufgaben erfolgt in internationalen 2er-Teams oder individuell.</description>
+    </item>
+    <item>
+      <title>Prüfungsvorbereitung (FHB)</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/exams-fhb.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/exams-fhb.html</guid>
+      <description>Elektronische Klausur: Termin, Materialien Termin Die Prüfung erfolgt durch eine Klausur, die als digitale Prüfung auf einem Prüfungs-ILIAS durchgeführt wird.
+Es wird angestrebt, die Klausur in Präsenz in den Rechnerpools am Campus Minden durchzuführen. Falls dies wegen der Corona-Situation oder anderer Umstände nicht möglich sein sollte, wird die Klausur als &amp;quot;Open-Book-Ausarbeitung&amp;quot; im Home-Office durchgeführt.
+Termin 1: XX, XX.XX.XXXX, XX:XX -- XX:XX Uhr
+Dauer 90 Minuten. Es wird in beiden Prüfungszeiträumen ein Termin angeboten (konkreter Termin im zweiten Prüfungszeitraum wird noch vom Prüfungsamt bekannt gegeben).</description>
+    </item>
+    <item>
+      <title>Prüfungsvorbereitung (TDU)</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/exams-tdu.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/exams-tdu.html</guid>
+      <description>TBD tbd</description>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/faq.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/org/faq.html</guid>
+      <description>Co-Teaching und Online-Unterricht Wir werden die Vorlesungen an beiden Hochschulen (TDU, FHB) im Co-Teaching gemeinsam durchführen. Deshalb werden alle Sitzungen (Vorlesung/Sprechstunde und Übung/Praktikum) online über Zoom durchgeführt.
+Flipped Classroom Wir drehen die Vorlesungen vom Ablauf her &amp;quot;um&amp;quot; - daher die Bezeichnung &amp;quot;Flipped Classroom&amp;quot;.
+Beim Flipped Classroom arbeiten Sie sich vor der jeweiligen Vorlesung selbstständig durch das für die jeweilige Woche bereitgestellte Material: Skript, Videos, Quizzes, Literaturhinweise, ..., gern auch bereits durch die Übungsaufgaben.</description>
+    </item>
+  </channel>
+</rss>

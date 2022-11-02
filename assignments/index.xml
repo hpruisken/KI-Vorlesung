@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Praktikum/Übung on </title>
+    <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments.html</link>
+    <description>Recent content in Praktikum/Übung on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meilenstein 1.1: Problemlösen, Suche</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet01.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet01.html</guid>
+      <description>Suche Betrachten Sie folgende Landkarte und Restwegschätzungen:
+Quelle: MapGermanyGraph.svg by Regnaron and Jahobr on Wikimedia Commons (Public Domain)
+Finden Sie nacheinander mit Tiefensuche und Breitensuche (jeweils in der Graph-Search-Variante) sowie A* (in der Tree-Search-Variante mit der Verbesserung &amp;quot;keine Zyklen&amp;quot;, siehe Vorlesung) jeweils einen Weg von Würzburg nach München.
+Vergleichen Sie die drei Algorithmen: Wie viele Einträge gibt es in der Datenstruktur maximal, wie oft wird die Hauptschleife durchlaufen (also ein Element aus der Datenstruktur entnommen, untersucht und weiterentwickelt)?</description>
+    </item>
+    <item>
+      <title>Meilenstein 1.2: Lokale Suche, GA</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet02.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet02.html</guid>
+      <description>Rätsel mit GA Betrachten Sie das 8-Queens-Problem sowie das Landkarten-Färbeproblem (aus Vorlesung &amp;ldquo;CSP: Intro&amp;rdquo;). Starten Sie beim Färbeproblem mit fünf verschiedenen Farben, Ziel sollte eine konfliktfreie Einfärbung mit einer minimalen Anzahl an Farben sein.
+Geben Sie für beide Probleme je eine geeignete Kodierung der Individuen, passende Operatoren (Crossover, Mutation) und eine geeignete Fitnessfunktion an, damit die Probleme mit einem GA gelöst werden können. Begründen Sie Ihre Wahl!
+Implementieren Sie den in der Vorlesung besprochenen GA und wenden Sie den Algorithmus nacheinander auf beide Probleme an.</description>
+    </item>
+    <item>
+      <title>Meilenstein 1.3: Constraints</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet03.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet03.html</guid>
+      <description>Logikrätsel als CSP Betrachten Sie die Variante des berühmten &amp;quot;Einstein-Rätsels&amp;quot; auf Wikipedia.
+Formulieren Sie das Problem als CSP (Variablen, Wertebereiche, Constraints) zunächst auf dem Papier. Machen Sie sich klar, was die Variablen und was deren Wertebereiche sind. Schreiben Sie die Constraints als (unäre bzw. binäre) Relationen zwischen den Variablen auf.
+Lösen Sie nun das Rätsel:
+Lösen Sie das Rätsel zunächst mit dem Basis-Algorithmus BT_Search aus der Vorlesung. Erweitern Sie den Algorithmus um die Heuristiken MRV und Gradheuristik und lösen Sie das Problem erneut.</description>
+    </item>
+    <item>
+      <title>Meilenstein 1.4: Entscheidungsbäume</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet04.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet04.html</guid>
+      <description>Entscheidungsbäume mit CAL3 und ID3 Es ist wieder Wahlkampf: Zwei Kandidaten O und M bewerben sich um die Kanzlerschaft. Die folgende Tabelle zeigt die Präferenzen von sieben Wählern.
+Nr. Alter Einkommen Bildung Kandidat 1 $\ge 35$ hoch Abitur O 2 $&lt; 35$ niedrig Master O 3 $\ge 35$ hoch Bachelor M 4 $\ge 35$ niedrig Abitur M 5 $\ge 35$ hoch Master O 6 $&lt; 35$ hoch Bachelor O 7 $&lt; 35$ niedrig Abitur M Trainieren Sie nacheinander mit den Verfahren CAL3 und ID3 auf der obigen Trainingsmenge je einen Entscheidungsbaum.</description>
+    </item>
+    <item>
+      <title>Projekt 1: Poster</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/poster1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/poster1.html</guid>
+      <description>TBD TBD</description>
+    </item>
+    <item>
+      <title>Meilenstein 2.1: Perzeptron, Lineare Regression</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet05.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet05.html</guid>
+      <description>A6.1: Entscheidungsgrenze (2P) (1P) Betrachten Sie das durch den Gewichtsvektor $ (w_0,w_1,w_2)^T = (2, 1, 1)^T $ gegebene Perzeptron. Zeichnen Sie die Trennebene und markieren Sie den Bereich, der mit $+1$ klassifiziert wird. (1P) Welche der folgenden Perzeptrons haben die selbe Trennebene? Welche weisen exakt die gleiche Klassifikation auf? $ (w_0,w_1,w_2)^T = (1, 0.5, 0.5)^T $ $ (w_0,w_1,w_2)^T = (200, 100, 100)^T $ $(w_0,w_1,w_2)^T = (\sqrt{2}, \sqrt{1}, \sqrt{1})^T$ $ (w_0,w_1,w_2)^T = (-2, -1, -1)^T $ Thema: Verständnis Interpretation Perzeptron (Trennebene/Entscheidungsgrenze)</description>
+    </item>
+    <item>
+      <title>Meilenstein 2.2: Logistische Regression</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet06.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet06.html</guid>
+      <description>A7.1: Logistische Regression (6P) (1P)
+Konstruieren Sie einen Datensatz $\mathcal{D}$ mit $m=100$ gleichförmig verteilten Zufallspunkten aus dem Bereich $ = [−1, 1] $. Wählen Sie auf ähnliche Weise zwei zufällige, gleichmäßig verteilte Punkte aus dem Bereich $ [−1, 1] $. Verwenden Sie die Gerade, die durch diese zwei Punkte verläuft, als die Entscheidungsgrenze ihrer Zielfunktion $f$: Punkte auf der einen Seite der Linie sollen als +1 und die anderen als −1 klassifiziert werden.</description>
+    </item>
+    <item>
+      <title>Meilenstein 2.3: Overfitting &amp; MLP</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet07.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/sheet07.html</guid>
+      <description>A8.1: Lineares MLP (2P) Gegeben sei ein MLP mit linearen Aktivierungsfunktionen, d.h. für jedes Neuron berechnet sich der Output durch die gewichtete Summe der Inputs: $ y = g(w^T x) $, wobei $ g(z) = z $ gilt, also $ y = w^T x $. Zeigen Sie, dass dieses Netz durch eine einzige Schicht mit linearen Neuronen ersetzt werden kann. Betrachten Sie dazu ein zweilagiges Netz bestehend aus einer Ausgabe- und einer versteckten Schicht.</description>
+    </item>
+    <item>
+      <title>Projekt 2: Poster</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/poster2.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/assignments/poster2.html</guid>
+      <description>TBD TBD</description>
+    </item>
+  </channel>
+</rss>

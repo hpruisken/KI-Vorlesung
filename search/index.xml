@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suche on </title>
+    <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/search.html</link>
+    <description>Recent content in Suche on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uninformierte Suche</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/search/uninformed.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/search/uninformed.html</guid>
+      <description>... jeder Schritt &amp;quot;kostet&amp;quot; gleich viel: nur die Anzahl der Schritte zählt ...
+Suche mit Tiefensuche Suche mit Breitensuche </description>
+    </item>
+    <item>
+      <title>Informierte Suche</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/search/informed.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/search/informed.html</guid>
+      <description>... Einsatz einer Kostenfunktion ...
+Suche mit Branch-and-Bound Suche mit Best First Suche mit A* </description>
+    </item>
+    <item>
+      <title>Lokale Suche</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/search/local.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1358898/search/local.html</guid>
+      <description>... das Ziel ist im Weg ...
+Lokale Suche: Gradientensuche Lokale Suche: Simulated Annealing </description>
+    </item>
+  </channel>
+</rss>
